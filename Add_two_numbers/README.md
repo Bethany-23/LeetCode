@@ -67,9 +67,3 @@ l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]
 
 ---
 
-## ⏱ Complexity
-
-- **Time Complexity:** `O(max(m, n))` where `m` and `n` are the lengths of the two lists.  
-- **Space Complexity:** `O(max(m, n))` for the output linked list.  
-
----
